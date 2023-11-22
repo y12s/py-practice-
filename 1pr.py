@@ -28,3 +28,5 @@ else:
     print("The value is not greater than 3 or 7")
 
 print("Done")
+a = 45 
+print(a)
