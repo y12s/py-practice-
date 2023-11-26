@@ -30,3 +30,4 @@ else:
 print("Done")
 a = 45 
 print(a)
+print(2+5)
