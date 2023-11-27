@@ -34,3 +34,8 @@ print(2+5)
 print('yatharth')
 print('singh')
 print('rajput')
+age = 18
+if age >= 18:
+    print('eligible')
+else:
+    print('not eligible')
