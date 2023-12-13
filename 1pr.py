@@ -39,3 +39,4 @@ if age >= 18:
     print('eligible')
 else:
     print('not eligible')
+ys = 'yatharh singh'
