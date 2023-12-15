@@ -40,3 +40,4 @@ if age >= 18:
 else:
     print('not eligible')
 ys = 'yatharh singh'
+ysr = 'Yatharth singh Rajput'
