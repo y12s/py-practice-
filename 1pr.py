@@ -46,3 +46,11 @@ def greet(name='Stranger'):
     print('good day ' + name)
 
 greet('yatharth')
+
+def percent(marks):
+    p = ((marks[0] + marks[1] + marks[2]) / 300) * 100
+    return p
+
+m1 = [98, 96, 97]
+percentage1 = percent(m1)
+print(percentage1)
