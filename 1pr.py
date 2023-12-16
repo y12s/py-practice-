@@ -41,3 +41,8 @@ else:
     print('not eligible')
 ys = 'yatharh singh'
 ysr = 'Yatharth singh Rajput'
+
+def greet(name='Stranger'):
+    print('good day ' + name)
+
+greet('yatharth')
