@@ -54,3 +54,6 @@ def percent(marks):
 m1 = [98, 96, 97]
 percentage1 = percent(m1)
 print(percentage1)
+m2 = [45,78,57]
+percentage2 = percent(m2)
+print(percentage2)
