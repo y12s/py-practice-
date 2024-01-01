@@ -57,3 +57,14 @@ print(percentage1)
 m2 = [45,78,57]
 percentage2 = percent(m2)
 print(percentage2)
+
+def ask(name):
+    print('how are you ' + name + ' ?')
+
+question = ask('Yatharth')
+print(question)
+
+for i in range(1,11,2):
+    print(i)
+
+
