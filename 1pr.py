@@ -67,4 +67,7 @@ print(question)
 for i in range(1,11,2):
     print(i)
 
+for i in range(0, 11, 1):
+    mul_no = 5
+    print(f'{mul_no} * {i} = {mul_no * i}')
 
